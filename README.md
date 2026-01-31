@@ -1,0 +1,2 @@
+# Hands-On-NLP-Tokenization-NER-and-Text-Similarity-in-Python
+A hands-on NLP project demonstrating text preprocessing, tokenization, stopword removal, stemming, lemmatization, POS tagging, named entity recognition, and document similarity. Built in Python with practical examples, this notebook showcases core Natural Language Processing techniques for learning and portfolio use. Great for beginners &amp; students!
